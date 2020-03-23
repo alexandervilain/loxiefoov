@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://owoochooj.kingtsugicoaching.com/sitemap.xml
